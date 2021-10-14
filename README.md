@@ -6,5 +6,8 @@
 <img src="https://www.petfinder.my/images/cuteness_meter.jpg" width=600>
 
 
+
+
 ## CNN Vs Transformer 🔥 Regression Vs Classification
+<img src="https://github.com/awsaf49/PetFinder/blob/main/image/cvt-smaller.gif">
 
