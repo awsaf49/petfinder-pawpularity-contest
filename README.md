@@ -6,8 +6,20 @@
 <img src="https://www.petfinder.my/images/cuteness_meter.jpg" width=600>
 
 
+## Kaggle Codes/Notebooks
+* Only Image:
+    * CNN + Regression:
+        * train: [[TF] PetFinder: CNN + Reg [TPU][Training] 🐶](https://www.kaggle.com/awsaf49/tf-petfinder-image-tpu-train)
+        * infer: [[TF] PetFinder: CNN + Reg [TPU][Inference] 🐶](https://www.kaggle.com/awsaf49/tf-petfinder-image-tpu-infer)
+    * Transformer + Classification:
+        * train: [[TF] PetFinder: ViT + Cls [TPU][Training] 😺](https://www.kaggle.com/awsaf49/tf-petfinder-vit-cls-tpu-train)
+        * infer: [[TF] PetFinder: ViT + Cls [TPU][Inference] 😺](https://www.kaggle.com/code/awsaf49/tf-petfinder-vit-cls-tpu-infer)
+* Image+Tabular:
+    * CNN:
+        * train: [[TF] PetFinder: Image+Tabular [TPU][Train] 🐶](https://www.kaggle.com/awsaf49/tf-petfinder-image-tabular-tpu-train)
 
+> **Note**: Codes/Notebooks are also available in the [`notebooks`](/notebooks) folder.
 
-## CNN Vs Transformer 🔥 Regression Vs Classification
+## CNN Vs Transformer
 <img src="https://github.com/awsaf49/PetFinder/blob/main/image/cvt-smaller.gif">
 
